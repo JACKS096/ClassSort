@@ -1,0 +1,8 @@
+C:\Users\herhe\source\repos\ClassSort\bin\Debug\ClassSort.exe.config
+C:\Users\herhe\source\repos\ClassSort\bin\Debug\ClassSort.exe
+C:\Users\herhe\source\repos\ClassSort\bin\Debug\ClassSort.pdb
+C:\Users\herhe\source\repos\ClassSort\obj\Debug\ClassSort.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\ClassSort\obj\Debug\ClassSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\ClassSort\obj\Debug\ClassSort.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\ClassSort\obj\Debug\ClassSort.exe
+C:\Users\herhe\source\repos\ClassSort\obj\Debug\ClassSort.pdb
